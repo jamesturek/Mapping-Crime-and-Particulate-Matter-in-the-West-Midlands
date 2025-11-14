@@ -1,1 +1,1 @@
-This was a short project I did for my GIS course in which I used R to map certain crimes and particulate matter levels within the West Midlands region of England.
+This was a short project I did for my Applied GIS course in which I used R to map certain crimes and particulate matter levels within the West Midlands region of England.
